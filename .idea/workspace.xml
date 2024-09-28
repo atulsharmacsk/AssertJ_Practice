@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9b926c7-8812-477e-9e14-19a63c22f808" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/POJOs/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2mglEcuVNkyDov5rJQqQEOheG7q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/Atul/Desktop/Atul/Java_Practice/AssertJ_Practice/src/test/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest.customErrorMessages.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest.testCollection.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest.testCustomErrorMessages.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest.testCustomErrorMessages1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest.testCustomErrorMessages2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest.testInt.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest.testListObjects.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoTest.testObjects.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.test.test1.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Atul/Desktop/Atul/Java_Practice/AssertJ_Practice/src/test&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Atul\Desktop\Atul\Java_Practice\AssertJ_Practice\src\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DemoTest.testCustomErrorMessages2">
+    <configuration name="DemoTest.testCollection" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AssertJ_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DemoTest" />
+      <option name="METHOD_NAME" value="testCollection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.testCustomErrorMessages1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AssertJ_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DemoTest" />
+      <option name="METHOD_NAME" value="testCustomErrorMessages1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.testCustomErrorMessages2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AssertJ_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DemoTest" />
+      <option name="METHOD_NAME" value="testCustomErrorMessages2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.testListObjects" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AssertJ_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DemoTest" />
+      <option name="METHOD_NAME" value="testListObjects" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.testObjects" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AssertJ_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.DemoTest" />
+      <option name="METHOD_NAME" value="testObjects" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DemoTest.testCustomErrorMessages2" />
+        <item itemvalue="TestNG.DemoTest.testCustomErrorMessages1" />
+        <item itemvalue="TestNG.DemoTest.testListObjects" />
+        <item itemvalue="TestNG.DemoTest.testCollection" />
+        <item itemvalue="TestNG.DemoTest.testObjects" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9b926c7-8812-477e-9e14-19a63c22f808" name="Changes" comment="" />
+      <created>1725687767270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725687767270</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/DemoTest.java</url>
+          <line>14</line>
+          <properties class="Tests.DemoTest" method="testString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
